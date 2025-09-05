@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1500&color=00D8FE&background=00000000&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Dzikri+Murtadlo;+Building+Mobile%2C+Front-End%2C+and+Back-End+Solutions!🚀" alt="Typing SVG" />
-  </a>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1500&duration=2500&color=00D8FE&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Dzikri+Murtadlo;Building+Mobile%2C+Front-End%2C+and+Back-End+Solutions!%F0%9F%9A%80"
+    alt="Typing SVG" />
 </p>
 
 ---
@@ -15,37 +15,21 @@ I have a strong passion for software development, with a particular focus on the
 
 ### 🌐 Connect with me  
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<p align="center">
+  <a href="https://linkedin.com/in/dzikri-murtadlo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/dzikrrim" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:dzikrimurtadlo@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://discord.com/users/yourid" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
 
-  <div style="background-color:#1e1e1e; border-radius:12px; padding:10px 15px; display:flex; align-items:center; gap:10px; min-width:120px; justify-content:center;">
-    <a href="https://linkedin.com/in/dzikri-murtadlo" target="_blank" style="text-decoration:none; color:white; display:flex; align-items:center; gap:8px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
-      <span>LinkedIn</span>
-    </a>
-  </div>
-
-  <div style="background-color:#1e1e1e; border-radius:12px; padding:10px 15px; display:flex; align-items:center; gap:10px; min-width:120px; justify-content:center;">
-    <a href="https://instagram.com/dzikrrim" target="_blank" style="text-decoration:none; color:white; display:flex; align-items:center; gap:8px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" height="30"/>
-      <span>Instagram</span>
-    </a>
-  </div>
-
-  <div style="background-color:#1e1e1e; border-radius:12px; padding:10px 15px; display:flex; align-items:center; gap:10px; min-width:120px; justify-content:center;">
-    <a href="mailto:dzikrimurtadlo@gmail.com" target="_blank" style="text-decoration:none; color:white; display:flex; align-items:center; gap:8px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="30" height="30"/>
-      <span>Gmail</span>
-    </a>
-  </div>
-
-  <div style="background-color:#1e1e1e; border-radius:12px; padding:10px 15px; display:flex; align-items:center; gap:10px; min-width:120px; justify-content:center;">
-    <a href="https://discordapp.com/users/dzikr19" target="_blank" style="text-decoration:none; color:white; display:flex; align-items:center; gap:8px;">
-      <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" width="30" height="30"/>
-      <span>Discord</span>
-    </a>
-  </div>
-
-</div>
 
 ---
 
