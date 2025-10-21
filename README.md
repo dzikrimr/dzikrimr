@@ -8,9 +8,11 @@
 
 <h3 align="center">💻 A passionate Software Developer from Indonesia</h3>
 
+<p align="center">
 Hi there! I'm Dzikri Murtadlo, an Undergraduate student in Information Technology at the Faculty of Computer Science, Universitas Brawijaya.  
 Deeply interested in software development, especially in building efficient and user-focused applications. My work often involves mobile and web development, cloud integration, and AI-based projects.
 I enjoy learning new technologies, collaborating in teams, and turning ideas into impactful digital solutions.
+</p>
 
 ---
 
