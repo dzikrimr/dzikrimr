@@ -6,7 +6,7 @@
 
 ---
 
-<h3 align="center">💻 A passionate Software Developer from Indonesia</h3>
+<h3 align="center">A passionate Software Developer from Indonesia</h3>
 
 <p align="center">
 Hi there! I'm Dzikri Murtadlo, an Undergraduate student in Information Technology at the Faculty of Computer Science, Universitas Brawijaya.  
