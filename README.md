@@ -4,8 +4,6 @@
     alt="Typing SVG" />
 </p>
 
----
-
 <h3 align="center">A passionate Software Developer from Indonesia</h3>
 
 <p align="center">
