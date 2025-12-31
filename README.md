@@ -14,7 +14,7 @@
   <a href="https://linkedin.com/in/dzikri-murtadlo"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
   <a href="mailto:dzikrimurtadlo@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
   <a href="https://instagram.com/dzikrrim"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
-  <a href="https://discord.com/users/yourid"><img src="https://skillicons.dev/icons?i=discord" height="40" /></a>
+  <a href="https://discord.com/users/dzikr19"><img src="https://skillicons.dev/icons?i=discord" height="40" /></a>
 </p>
 
 ---
