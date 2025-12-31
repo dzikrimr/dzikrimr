@@ -1,69 +1,45 @@
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1500&duration=2500&color=00D8FE&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Dzikri+Murtadlo;Building+Mobile%2C+Front-End%2C+and+Back-End+Solutions!%F0%9F%9A%80"
-    alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&duration=3000&color=00D8FE&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Dzikri+Murtadlo;AI+Engineer+%26+Mobile+Developer;Building+Intelligent+Software+Solutions!%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<h3 align="center">A passionate Software Developer from Indonesia</h3>
+<h3 align="center">Software Developer Specializing in AI Integration 🤖</h3>
 
 <p align="center">
-Hi there! I'm Dzikri Murtadlo, an Undergraduate student in Information Technology at the Faculty of Computer Science, Universitas Brawijaya.  
-Deeply interested in software development, especially in building efficient and user-focused applications. My work often involves mobile and web development, cloud integration, and AI-based projects.
-I enjoy learning new technologies, collaborating in teams, and turning ideas into impactful digital solutions.
+  Undergraduate IT student at <b>Universitas Brawijaya</b> with a focus on <b>AI/ML, Mobile (Android), and Web Development</b>.
+  <br>
+  Winner of multiple national awards in software and AI innovation. Passionate about turning complex algorithms into user-friendly digital solutions.
 </p>
 
----
-
-### 🌐 Connect with me  
-
 <p align="center">
-  <a href="https://linkedin.com/in/dzikri-murtadlo" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/dzikrrim" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:dzikrimurtadlo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://discord.com/users/yourid" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-</p>
-
-
----
-
-### 🛠️ Languages and Tools
-<p align="center">
-  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="docker" /></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" alt="firebase" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="javascript" /></a>
-  <a href="https://kotlinlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" /></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" /></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="react" /></a>
-  <a href="https://www.sqlite.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" /></a>
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" alt="typescript" /></a>
-  <a href="https://vuejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=vue" alt="vuejs" /></a>
+  <a href="https://linkedin.com/in/dzikri-murtadlo"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="mailto:dzikrimurtadlo@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+  <a href="https://instagram.com/dzikrrim"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
+  <a href="https://discord.com/users/yourid"><img src="https://skillicons.dev/icons?i=discord" height="40" /></a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dzikrimr&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
 
+### 🛠️ Tech Stack & Specialized Tools
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app?user=dzikrimr&theme=tokyonight" alt="GitHub Streaks" />
+  <img src="https://skillicons.dev/icons?i=kotlin,js,ts,react,nextjs,tailwind,express,python,tensorflow,pytorch,fastapi,firebase,mysql,postgres,docker&theme=dark" />
 </p>
 
 ---
 
-### ⚡ Recent Activity Graph
+### 📊 Professional Insights
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dzikrimr&theme=tokyo-night" alt="Activity Graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=dzikrimr&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&height=180" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dzikrimr&layout=compact&theme=tokyonight&hide_border=true&card_width=400&height=180" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app?user=dzikrimr&theme=tokyonight&hide_border=true" width="90%" />
+</p>
+
+---
+
+### ⚡ Activity Overview
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dzikrimr&theme=tokyo-night&area=true&hide_border=true" width="90%" />
 </p>
