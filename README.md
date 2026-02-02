@@ -5,7 +5,7 @@
 <h3 align="center">Software Developer Specializing in AI Integration 🤖</h3>
 
 <p align="center">
-  Undergraduate IT student at <b>Universitas Brawijaya</b> with a focus on <b>AI/ML, Mobile (Android), and Web Development</b>.
+  Undergraduate IT student at <b>Universitas Brawijaya</b> with a focus on <b>AI/ML, Mobile (Android), and Backend Development</b>.
   <br>
   Winner of multiple national awards in software and AI innovation. Passionate about turning complex algorithms into user-friendly digital solutions.
 </p>
