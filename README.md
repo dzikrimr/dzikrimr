@@ -5,7 +5,7 @@
 <h3 align="center">Software Developer Specializing in Backend and AI</h3>
 
 <p align="center">
-  Undergraduate IT student at <b>Universitas Brawijaya</b> with a focus on <b>AI/ML, Mobile (Android), and Backend Development</b>.
+  Undergraduate IT student at <b>Universitas Brawijaya</b> with a focus on Backend Development</b>AI/ML, and Mobile (Android).</b>
   <br>
   Winner of multiple national awards in software and AI innovation. Passionate about turning complex algorithms into user-friendly digital solutions.
 </p>
