@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&duration=3000&color=00D8FE&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Dzikri+Murtadlo;AI+Engineer+%26+Mobile+Developer;Building+Intelligent+Software+Solutions!%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&duration=3000&color=00D8FE&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Dzikri+Murtadlo;Backend+Developer+%26+AI+Engineer;Building+Intelligent+Software+Solutions!%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <h3 align="center">Software Developer Specializing in Backend and AI</h3>
